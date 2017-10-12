@@ -8,4 +8,4 @@ Ignore tout à la racine, sauf .gitignore et "wp-content"
 wp-content/*
 !wp-content/plugins/*
 !wp-content/themes/*
-!wp-content/mu-plugins/
+!wp-content/mu-plugins/*
