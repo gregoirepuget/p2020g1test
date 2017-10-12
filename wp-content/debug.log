@@ -1,0 +1,5 @@
+[12-Oct-2017 19:37:10 UTC] PHP Notice:  Undefined variable: folders in /Applications/MAMP/htdocs/wordpress2h3/wp-content/themes/hetic/functions.php on line 7
+[12-Oct-2017 19:37:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/wordpress2h3/wp-content/themes/hetic/functions.php on line 7
+[12-Oct-2017 19:37:10 UTC] PHP Notice:  Undefined variable: folders in /Applications/MAMP/htdocs/wordpress2h3/wp-content/themes/hetic/functions.php on line 7
+[12-Oct-2017 19:37:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/wordpress2h3/wp-content/themes/hetic/functions.php on line 7
+[12-Oct-2017 19:37:11 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ')' in /Applications/MAMP/htdocs/wordpress2h3/wp-content/themes/hetic/header.php on line 31
